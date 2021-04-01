@@ -60,6 +60,8 @@ div.nav-bar a {
 
 .welcome {
   font-size: 45px;
+  color: white;
+  text-align: center;
 }
 
 .mission-and-vision {
@@ -370,4 +372,22 @@ html[xmlns] .clearfix {
   display: flex;
   justify-content: center;
   color: white;
+}
+
+.apply-now-description {
+text-align: center;
+color: white;
+font-size:25px;
+
+}
+
+.link {
+text-align: center;
+color: white;
+font-size:40px;
+}
+
+a:visited { 
+ text-decoration: none; 
+ color: white; 
 }
